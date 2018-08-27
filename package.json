@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directoryto learn Git and Node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinp1k2/git-test.git"
+  },
+  "author": "Robin L. Paone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinp1k2/git-test/issues"
+  },
+  "homepage": "https://github.com/robinp1k2/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
